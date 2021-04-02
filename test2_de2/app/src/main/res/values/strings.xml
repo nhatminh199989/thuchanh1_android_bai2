@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test2_de2</string>
+    <string-array name="image">
+        <item>SV1</item>
+        <item>SV2</item>
+        <item>SV3</item>
+    </string-array>
+</resources>
